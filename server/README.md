@@ -40,7 +40,7 @@ users and notes settings. As for employees, the dashboard will only display thei
 to create and re-assign notes. 
 
 ### Login Page
-![The starting page for Log in.](src/img/user_login.png)
+![The starting page for Log in.](../src/img/user_login.png)
 
 ### Admin Dashboard
 ![The starting page for Admin dashboard.](src/img/admin_dash.png)
