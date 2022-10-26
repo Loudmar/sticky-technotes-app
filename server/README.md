@@ -43,22 +43,22 @@ to create and re-assign notes.
 ![The starting page for Log in.](../src/img/user_login.png)
 
 ### Admin Dashboard
-![The starting page for Admin dashboard.](src/img/admin_dash.png)
+![The starting page for Admin dashboard.](../src/img/admin_dash.png)
 
 ### Admin Notes settings
-![The starting page for Admin dashboard.](src/img/admin_notes_settings.png)
+![The starting page for Admin dashboard.](../src/img/admin_notes_settings.png)
 
 ### Admin Users settings
-![The starting page for Admin dashboard.](src/img/admin_user_settings.png)
+![The starting page for Admin dashboard.](../src/img/admin_user_settings.png)
 
 ### Employee Dashboard
-![The starting page for Admin dashboard.](src/img/employee_dash.png)
+![The starting page for Admin dashboard.](../src/img/employee_dash.png)
 
 ### Employee Add notes
-![The starting page for Admin dashboard.](src/img/employee_add_notes.png)
+![The starting page for Admin dashboard.](../src/img/employee_add_notes.png)
 
 ### Employee Notes
-![The starting page for Admin dashboard.](src/img/employee_notes.png)
+![The starting page for Admin dashboard.](../src/img/employee_notes.png)
 
 ## Future Development 
 
